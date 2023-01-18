@@ -13,11 +13,5 @@ public class Arithmetic {
     public int composition() {
         return a * b;
     }
-    public int max() {
-        return a > b ? a : b;
-    }
 
-    public int min() {
-        return a < b ? a : b;
-            }
 }

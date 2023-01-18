@@ -4,8 +4,7 @@ public class Main {
 
         System.out.println("Сумма: " + volue.sum());
         System.out.println("Произведение: " + volue.composition());
-        System.out.println("Максимальное число: " + volue.max());
-        System.out.println("Минимальное число: " + volue.min());
+      
 
 
     }
