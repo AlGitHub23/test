@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Сумма: " + volue.sum());
         System.out.println("Произведение: " + volue.composition());
-      
+        
 
 
     }

@@ -1,17 +1,17 @@
 public class Arithmetic {
     private int a;
-    private int b;
-    public Arithmetic(int a, int b) {
+    private int c;
+    public Arithmetic(int a, int c) {
         this.a = a;
-        this.b = b;
+        this.c = c;
     }
 
 
     public int sum() {
-        return a + b;
+        return a + c;
     }
     public int composition() {
-        return a * b;
+        return a * c;
     }
-
+    
 }
